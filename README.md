@@ -45,7 +45,7 @@ VITE 포트폴리오 바로가기 [VITE 💾](https://github.com/mooon411/vite-p
 VUE 포트폴리오 바로가기 [VUE 💾](https://github.com/mooon411/vue-project1109)   
 NEXT.JS 포트폴리오 바로가기 [NEXT.JS 💾](https://github.com/mooon411/next-project) 
 
-### 🍻음주 커뮤니티 제작
+### PHP 커뮤니티 제작
 PHP, mySql을 사용해 제작한 술과 음료에 관한 다양한 정보와 경험을 공유하는 커뮤니티입니다. 
 [취중진담 💾](https://github.com/mooon411/CJJD)
 
