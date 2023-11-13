@@ -30,7 +30,7 @@ HTML, CSS 및 JavaScript와 같은 웹 기술을 사용하여 사용자가 웹 �
 
 
 
-## 🎨LINKS
+### 🎨LINKS
 
 #### 프론트엔드 수업 내용 정리 
 프론트엔드 수업시간에 배운 기능과 내용을 정리해두었습니다.    
@@ -44,4 +44,8 @@ REACT 포트폴리오 바로가기 [REACT 💾](https://github.com/mooon411/reac
 VITE 포트폴리오 바로가기 [VITE 💾](https://github.com/mooon411/vite-project2023)   
 VUE 포트폴리오 바로가기 [VUE 💾](https://github.com/mooon411/vue-project1109)   
 NEXT.JS 포트폴리오 바로가기 [NEXT.JS 💾](https://github.com/mooon411/next-project) 
+
+### 🍻음주 커뮤니티 제작
+PHP, mySql을 사용해 제작한 술과 음료에 관한 다양한 정보와 경험을 공유하는 커뮤니티입니다. 
+[취중진담 💾](https://github.com/mooon411/CJJD)
 
