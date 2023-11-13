@@ -2,7 +2,7 @@
 
 <p align="center">
  img
-  <img src="https://github.com/mooon411/mooon411/assets/144635643/2e650b1f-6d2d-476f-b490-0c1ea105e8d5">
+  <img src="https://github.com/mooon411/mooon411/assets/144635643/2e650b1f-6d2d-476f-b490-0c1ea105e8d5" width="200">
 </p>
 
 ### 프론트엔드 개발자란?
